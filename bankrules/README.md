@@ -3,6 +3,8 @@
 ### Business requirements
 Respected prime minister Mr. Narendra Modi has announced demonetisation.
 Due to demonetisation, develop a bank system (no UI required) with new cash withdrawals, bank deposits rules on bank accounts
+
+### Rules to implement 
 1. Cash withdrawals limit upto Rs 2,500 allowed per day
 2. Cash exchange limit upto Rs 2,000 allowed per day
 3. Cash withdrawals limit for farmers upto Rs 7,000 allowed per day
